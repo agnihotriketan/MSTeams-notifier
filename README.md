@@ -151,10 +151,16 @@ Perfect for demonstrating:
 - No sensitive data stored in application
 - Audit trail through Teams message history
 
+## Demo
+<img width="1661" height="262" alt="1" src="https://github.com/user-attachments/assets/62916cd8-8be0-4bbe-b43f-c7fd833c241b" />
+
+<img width="1842" height="1032" alt="image" src="https://github.com/user-attachments/assets/811d1d2d-a520-4ec9-8621-333b1438c46e" />
+ 
 ## Support
 
 For questions or issues related to this POC, please contact the development team or create an issue in the repository.
- <img width="1842" height="1032" alt="image" src="https://github.com/user-attachments/assets/811d1d2d-a520-4ec9-8621-333b1438c46e" />
+
+
 
 
 --- 
